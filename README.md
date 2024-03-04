@@ -1,5 +1,5 @@
 # Reto2_POO
-
+```mermaid
 classDiagram
   class Transmilenio {
     - estaciones
@@ -74,3 +74,4 @@ classDiagram
 
   Ruta --> Bus
   Transmicable --> CabinaTransmicable
+```
